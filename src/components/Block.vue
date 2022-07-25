@@ -71,7 +71,7 @@
         margin: 10px auto;
         border: #2c3e50 1px solid;
         width: 60vw;
-        height: 60vw;
+        height: 60vh;
         border-radius: 10px;
         display: flex;
         justify-content: center;
@@ -80,7 +80,7 @@
 
     .block-all .block {
         width: 55vw;
-        height: 55vw;
+        height: 55vh;
         background-color: #2c3e50;
         border-radius: 10px;
         color: white;
